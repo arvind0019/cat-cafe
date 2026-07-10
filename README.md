@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Luxury Cat Cafe
 
 Premium offline website for **Velvet Paw Cafe**, built with HTML, CSS, vanilla JavaScript, Node.js, Express, and local MongoDB Community Server.
@@ -126,3 +127,7 @@ The frontend includes local SVG artwork for cats, coffee, interior, desserts, cu
 frontend/assets/videos/hero-cafe.mp4
 frontend/assets/videos/cafe-experience.mp4
 ```
+=======
+# cat-cafe
+A modern and responsive Cat Cafe website built with HTML, CSS, and JavaScript. It features a clean UI, interactive design, image gallery, menu section, smooth navigation, and mobile-friendly layout. Designed to showcase front-end development skills and provide a pleasant user experience.
+>>>>>>> b6db5bb04770687e12862efc883f7589716243f3
