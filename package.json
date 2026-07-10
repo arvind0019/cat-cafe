@@ -1,0 +1,11 @@
+{
+  "name": "luxury-cat-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium offline Luxury Cat Cafe website with vanilla frontend, Express API, and local MongoDB.",
+  "scripts": {
+    "install:backend": "npm install --prefix backend",
+    "start": "npm start --prefix backend",
+    "check": "npm run check --prefix backend"
+  }
+}
